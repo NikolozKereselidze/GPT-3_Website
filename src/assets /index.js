@@ -12,3 +12,4 @@ export { default as possibility } from "./possibility.png";
 export { default as people } from "./people.png";
 export { default as shopify } from "./shopify.png";
 export { default as slack } from "./slack.png";
+export { default as gpt3Logo } from "./logo.svg";
